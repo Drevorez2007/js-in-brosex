@@ -107,7 +107,7 @@ right:20px;
 .brans__list-item-btn::before {
 content: '';
 position: absolute;
-background:url(images/read-more-icon.svg) ;
+background:url(images/pathtoright.svg) ;
 width:8px;
 height:12px;
 top:28px;
